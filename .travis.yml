@@ -4,11 +4,19 @@ install:
   - sudo dpkg -i hugo_0.88.1_Linux-64bit.deb
 
 script:
-  - hugo
+  - hugo -D
 
-deploy:
-  - provider: script
-    script: ./deploy.sh
-    skip_cleanup: true
-    on:
-      branch: main
+after_success:
+  - # Set your identification.
+  - git config --global user.email "encryptgig@gmail.com"
+  - git config --global user.name "encryptgig"
+  -
+  - # Clone some repository you want into "repo" subfolder.
+  - git clone https://encryptgig:${GH_TOKEN}@github.com/website.git ./repo
+  -
+  - # Now, perform your custom actions. Custom repository is cloned int "repo" subfolder of PWD.
+  -
+  - # After your actions are done, you might want to commit and push your changes.
+  - cd repo
+  - ls repo
+  - git log
