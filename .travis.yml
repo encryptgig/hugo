@@ -15,16 +15,14 @@ after_success:
   - mkdir web
   - git clone https://${GH_TOKEN}@github.com/encryptgig/website.git ./web
   - cd web
-  - ls -la web/
-  - cd website
-  - ls -la website/
+  - ls -la
   - # Now, perform your custom actions. Custom repository is cloned int "repo" subfolder of PWD.
-  - ls -la website/blogs/
+  - ls -la blogs/
   - # After your actions are done, you might want to commit and push your changes.
-  - rm -rf website/blogs/public
-  - ls -la website/blogs/
-  - cp -r public website/blogs/
-  - ls -la website/blogs/
+  - rm -rf blogs/public
+  - ls -la blogs/
+  - cp -r ../public blogs/
+  - ls -la blogs/
   - git add .
   - git commit -m "update from travis"
   - git push origin main
