@@ -1,8 +1,14 @@
 ---
-date: 2017-04-08T10:58:08-04:00
-description: "This is sample post"
-featured_image: "/images/post7.jpeg"
-title: "This is post8"
+date: 2021-04-08T10:58:08-04:00
+description: "Communication protocol that defines message formats for manipulation od keys on a Key Management Server."
+featured_image: "/images/post8.jpeg"
+title: "Key Management Interoperability Protocol (KMIP) "
 ---
 
-This is sample post and placeholder...
+### What is KMIP ?
+KMIP is a binary protocol and this protocol is used my keymanagement servers to provide Key Managment Facilities. Like
+- Key Creation
+- Key Updation
+- Key Deletion
+- Getting key mets data information
+- Encryption and Decryption
