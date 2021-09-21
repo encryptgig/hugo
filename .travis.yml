@@ -17,6 +17,8 @@ after_success:
   - # Now, perform your custom actions. Custom repository is cloned int "repo" subfolder of PWD.
   -
   - # After your actions are done, you might want to commit and push your changes.
-  - cd website
-  - ls website
+  - rm -rf website/blogs/public
+  - cp -r public website/blogs/
+  - git commit -m "update from travis"
+  - git push origin main
   - git log
