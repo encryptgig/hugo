@@ -1,7 +1,7 @@
 ---
 date: 2021-08-08T10:58:08-04:00
 description: "Basics of data encryption and key managment for a common man..."
-featured_image: "/images/post8.jpeg"
+featured_image: "/images/encryptgig_km.jpeg"
 title: "Encryption and Key Management"
 ---
 
