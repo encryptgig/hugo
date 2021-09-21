@@ -8,6 +8,7 @@ script:
 
 after_success:
   - # Set your identification.
+  - ls -la
   - git config --global user.email "encryptgig@gmail.com"
   - git config --global user.name "encryptgig"
   -
