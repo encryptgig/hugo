@@ -12,16 +12,7 @@ after_success:
   - git config --global user.name "encryptgig"
   -
   - # Clone some repository you want into "repo" subfolder.
-  - git clone https://encryptgig:${GH_TOKEN}@github.com/website.git
-  - ls -la website/
-  - # Now, perform your custom actions. Custom repository is cloned int "repo" subfolder of PWD.
-  - ls -la website/blogs/
-  - # After your actions are done, you might want to commit and push your changes.
-  - rm -rf website/blogs/public
-  - ls -la website/blogs/
-  - cp -r public website/blogs/
-  - ls -la website/blogs/
-  - git add .
-  - git commit -m "update from travis"
-  - git push origin main
-  - git log
+  - mkdir web
+  - git clone https://${GH_TOKEN}@github.com/encryptgig/website.git
+  - cd website
+  - ls -la website
