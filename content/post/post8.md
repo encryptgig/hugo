@@ -1,11 +1,11 @@
 ---
 date: 2021-08-08T10:58:08-04:00
-description: "Basics of data encryption and key managment for a common man..."
+description: "Data Security for a common man..."
 featured_image: "/images/encryptgig_km.jpeg"
-title: "Encryption and Key Management"
+title: "Secure your data with Encryptgig"
 ---
 
-**I trust my brother with my life but do I trust him with my computer or phone ?**
+**I trust my wife with my life but, do I trust her with my computer or phone ?**
 
 This question is funny, but it is pointing to a really serious problem these days. Data stored in your computer and mobile
 ca be sensitive and everyone is not supposed to see it. I call it as common man's problem of data security.
@@ -23,5 +23,28 @@ physically strong. Now, the same way you keep your gold in a safe you need to ke
 - or Some important digital documents
 
 For keeping them safe there are multiple options, 
+- keep them on computer protected with passwords
+- keep them on cloud
+- keep them in emails
+
+These options are good but, have you ever thought:
+- what if computer is hacked ?
+- cloud account is hacked ?
+- email is hacked ?
+
+or another way of looking at this is:
+- if I gave my data to someone else, can they see it ?
+
+There are multiple possible questions, when it comes to data security. The one answer that encryptgig can give you here is, **Encrypt Your Data**, 
+wherever you keep it and control the access of your data, so that even if you have shared it to
+some wrong party they can't see it.
+
+Our free [solution](https://app.encryptgig.com/EncryptFile)  will help you to secure your data and once
+you encrypt your data with our solution, you can share it anywhere and using any medium. Our aim is to 
+make data security available to common man and you can join your hands with us by trying our [solution](https://app.encryptgig.com/EncryptFile).
+
+
+
+
 
 
