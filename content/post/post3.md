@@ -1,7 +1,7 @@
 ---
 date: 2017-04-11T10:58:08-04:00
 description: "Europe’s new data privacy and security law..."
-featured_image: "/images/gdpr.jpeg"
+featured_image: "/images/encryptgig_gdpr and encryption.jpg"
 title: "What is GDPR ?"
 ---
 
