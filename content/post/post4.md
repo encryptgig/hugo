@@ -2,7 +2,7 @@
 date: 2017-04-08T10:58:08-04:00
 description: "If companies, choose not to follow the order they are being penalized with the hefty amount,
 and jeopardizing the business."
-featured_image: "/images/post4.jpeg"
+featured_image: "/images/encryptgig_information protection.jpg"
 title: "Will India and other Asian countries follow Europe’s data privacy (GDPR) type of law in the future?"
 ---
 
