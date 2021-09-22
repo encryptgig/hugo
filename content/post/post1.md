@@ -1,7 +1,7 @@
 ---
 date: 2017-04-09T10:58:08-04:00
 description: "Social media companies are advertising about security and safety, and I am not doubting their security...."
-featured_image: "/images/sm.jpeg"
+featured_image: "/images/encryptgig_socialmedia privacy.jpg"
 title: "Social Media File Sharing and Security"
 ---
 
