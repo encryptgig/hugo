@@ -1,7 +1,7 @@
 ---
 date: 2017-04-08T10:58:08-04:00
 description: "As data stealing and hacking are constantly on the rise"
-featured_image: "/images/post7.jpeg"
+featured_image: "/images/encryptgig_secure ads.jpg"
 title: "Does personal data that we share while clicking online ads are being stored safely?"
 ---
 
