@@ -1,5 +1,3 @@
-{{ template "_internal/google_analytics.html" . }}
-
 ---
 date: 2017-09-10T10:58:08-04:00
 description: "Confidentiality, Integrity And Availability"
