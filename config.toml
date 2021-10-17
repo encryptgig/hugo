@@ -8,7 +8,7 @@ theme = "ananke"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = "UA-287743725"
+googleAnalytics = "G-R6RR9HX7WE"
 enableRobotsTXT = true
 
 [languages]
